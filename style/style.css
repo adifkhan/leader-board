@@ -141,6 +141,9 @@ hr{
     .player, .blog{
         flex-direction: column;
     }
+    .course{
+        margin-bottom: 15px
+    }
 }
 
 /* ---------------tablet view---------------- */
@@ -162,9 +165,16 @@ hr{
         width: 150px;
         height: auto;
     }
+    .blogs{
+        width: 95%;
+    }
     .courses{
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
+        width: 95%;
+    }
+    .course{
+        margin-bottom: 10px
     }
 }
