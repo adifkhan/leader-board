@@ -126,7 +126,7 @@ hr{
 /* ------------mobile view-------------- */
 @media only screen and (max-width: 688px) {
     .container{
-        width: 95%;
+        width: 100%;
     }
     .section-title{
         text-align: center;
@@ -147,7 +147,7 @@ hr{
 
 @media only screen and (min-width: 689px) and (max-width: 992px) {
     .container{
-        width: 95%;
+        width: 100%;
     }
     .section-title{
         text-align: center;
